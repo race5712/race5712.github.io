@@ -1,6 +1,6 @@
 ---
 layout: post
-title: second page
+title: page
 author: race5712
 tags:
 - jekyll theme
